@@ -17,6 +17,10 @@ npm run build
 
 ### Previewing project
 ```
+Run npm run serve on the project root.
+```
+
+```
 Visit http://localhost:8080/ on your browser
 ```
 
