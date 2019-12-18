@@ -21,5 +21,5 @@ Visit http://localhost:8080/ on your browser
 ```
 
 ```
-User each search component to search each item
+Use each search component to search each item (organizations, tickets, users)
 ```
